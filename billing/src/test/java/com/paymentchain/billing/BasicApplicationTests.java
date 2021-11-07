@@ -12,9 +12,8 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-          String message="default message cambio test devops WMS - LMV  ";
+    String message="default message cambio test devops WMS - LMV  ";
 	  Assert.assertNotNull(message);
-
 	}
 
 }
